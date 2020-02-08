@@ -6,6 +6,7 @@ public class ATest {
 		// TODO Auto-generated method stub
 
 		System.out.println("jenkins");
+		System.out.println("jenkins1");
 	}
 
 }
